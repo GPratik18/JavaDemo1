@@ -14,6 +14,7 @@ class CricketerMain{
 			c=new Bowler("India","Irfan Pathan",4,2);
 		}
 		c.print();
+		System.out.println("Some trial changes for git trials");
 	}
 
 }
