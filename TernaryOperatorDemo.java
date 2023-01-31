@@ -1,4 +1,4 @@
-package com.example.PWDemo;
+
 
 public class TernaryOperatorDemo {
 

@@ -1,4 +1,3 @@
-package com.example.PWDemo;
 
 public class Demo {
 
