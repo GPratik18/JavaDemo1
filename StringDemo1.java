@@ -1,5 +1,3 @@
-package com.example.PWDemo;
-
 public class StringDemo1 {
 
 	public static void main(String[] args) {

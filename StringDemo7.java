@@ -1,6 +1,4 @@
 //Important methods of String 
-package com.example.PWDemo;
-
 public class StringDemo7 {
 	public static void main(String[] args) {
 		String str = "Jai Maharashtra ";
